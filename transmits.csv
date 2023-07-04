@@ -3,5 +3,5 @@
 # coins: number of coins received
 # cumsum: cumulative sum of coins
 
-item,commit,coins,cumsum
-1,7a6fda36f1d970ab3d133bfa78cca5d52db352b4,1,1
+item,datetime,coins,description,cumsum,commit
+1,2023-07-03 17:46:24,1,1 day of development,1,7a6fda36f1d970ab3d133bfa78cca5d52db352b4
