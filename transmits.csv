@@ -1,8 +1,7 @@
 # transaction commits
 # froto: from or to whom coins received or sent
 # coins: number of coins received
-# cumsum: cumulative sum of coins
 # commit: commit hash
 
-item,datetime,froto,coins,description,cumsum,commit
-1,2023-07-03 17:46:24,unitedtriangle,1,1 day of development,1,7a6fda36f1d970ab3d133bfa78cca5d52db352b4
+item,datetime,froto,coins,description,balance,credit,debt,commit
+1,2023-07-03 17:46:24,unitedtriangle,1,1 day of development,1,1,0,7a6fda36f1d970ab3d133bfa78cca5d52db352b4
