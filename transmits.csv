@@ -4,4 +4,4 @@
 # commit: commit hash
 
 item,datetime,froto,coins,description,balance,credit,debt,commit
-1,2023-07-03 17:46:24,unitedtriangle,1,1 day of development,1,1,0,7a6fda36f1d970ab3d133bfa78cca5d52db352b4
+1,2023-07-03 17:46:24+00:00,unitedtriangle,1,1 day of development,1,1,0,13e5514aa752fefe5aa9c94c489c9269f9d10d2c
